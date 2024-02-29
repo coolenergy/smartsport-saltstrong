@@ -1,0 +1,208 @@
+{
+    "status": "success",
+    "result": [
+        {
+            "oyster_id": "154336948",
+            "city_name": "Green Cove Springs",
+            "city_type": "city-3",
+            "oyster_lat": "29.992",
+            "oyster_lng": "-81.678"
+        },
+        {
+            "oyster_id": "153987228",
+            "city_name": "St. Augustine",
+            "city_type": "city-3",
+            "oyster_lat": "29.895",
+            "oyster_lng": "-81.315"
+        },
+        {
+            "oyster_id": "154174208",
+            "city_name": "Orange Park",
+            "city_type": "city-4",
+            "oyster_lat": "30.165",
+            "oyster_lng": "-81.702"
+        },
+        {
+            "oyster_id": "154321322",
+            "city_name": "Jacksonville",
+            "city_type": "city-2",
+            "oyster_lat": "30.332",
+            "oyster_lng": "-81.656"
+        },
+        {
+            "oyster_id": "154194858",
+            "city_name": "Palm Valley",
+            "city_type": "city-4",
+            "oyster_lat": "30.177",
+            "oyster_lng": "-81.388"
+        },
+        {
+            "oyster_id": "153962963",
+            "city_name": "Jacksonville Beach",
+            "city_type": "city-3",
+            "oyster_lat": "30.295",
+            "oyster_lng": "-81.393"
+        },
+        {
+            "oyster_id": "154209622",
+            "city_name": "Palatka",
+            "city_type": "city-3",
+            "oyster_lat": "29.649",
+            "oyster_lng": "-81.637"
+        },
+        {
+            "oyster_id": "153847577",
+            "city_name": "Interlachen",
+            "city_type": "city-4",
+            "oyster_lat": "29.624",
+            "oyster_lng": "-81.89"
+        },
+        {
+            "oyster_id": "154301819",
+            "city_name": "Hastings",
+            "city_type": "city-4",
+            "oyster_lat": "29.718",
+            "oyster_lng": "-81.508"
+        },
+        {
+            "oyster_id": "154209707",
+            "city_name": "Palm Coast",
+            "city_type": "city-2",
+            "oyster_lat": "29.554",
+            "oyster_lng": "-81.221"
+        },
+        {
+            "oyster_id": "153898397",
+            "city_name": "Lawtey",
+            "city_type": "city-3",
+            "oyster_lat": "30.044",
+            "oyster_lng": "-82.072"
+        },
+        {
+            "oyster_id": "154323407",
+            "city_name": "Hampton",
+            "city_type": "city-3",
+            "oyster_lat": "29.865",
+            "oyster_lng": "-82.131"
+        },
+        {
+            "oyster_id": "153999373",
+            "city_name": "Starke",
+            "city_type": "city-3",
+            "oyster_lat": "29.944",
+            "oyster_lng": "-82.11"
+        },
+        {
+            "oyster_id": "153863592",
+            "city_name": "Macclenny",
+            "city_type": "city-3",
+            "oyster_lat": "30.282",
+            "oyster_lng": "-82.122"
+        },
+        {
+            "oyster_id": "153986325",
+            "city_name": "Baldwin",
+            "city_type": "city-4",
+            "oyster_lat": "30.303",
+            "oyster_lng": "-81.975"
+        },
+        {
+            "oyster_id": "154212501",
+            "city_name": "Waldo",
+            "city_type": "city-3",
+            "oyster_lat": "29.79",
+            "oyster_lng": "-82.167"
+        },
+        {
+            "oyster_id": "154386923",
+            "city_name": "Hawthorne",
+            "city_type": "city-4",
+            "oyster_lat": "29.592",
+            "oyster_lng": "-82.087"
+        },
+        {
+            "oyster_id": "154285951",
+            "city_name": "Saint Marys",
+            "city_type": "city-3",
+            "oyster_lat": "30.731",
+            "oyster_lng": "-81.546"
+        },
+        {
+            "oyster_id": "154046349",
+            "city_name": "Salt Springs",
+            "city_type": "city-4",
+            "oyster_lat": "29.351",
+            "oyster_lng": "-81.736"
+        },
+        {
+            "oyster_id": "153973320",
+            "city_name": "Crescent City",
+            "city_type": "city-3",
+            "oyster_lat": "29.43",
+            "oyster_lng": "-81.511"
+        },
+        {
+            "oyster_id": "154127901",
+            "city_name": "Pierson",
+            "city_type": "city-4",
+            "oyster_lat": "29.239",
+            "oyster_lng": "-81.466"
+        },
+        {
+            "oyster_id": "154100939",
+            "city_name": "Hilliard",
+            "city_type": "city-4",
+            "oyster_lat": "30.691",
+            "oyster_lng": "-81.917"
+        },
+        {
+            "oyster_id": "153925240",
+            "city_name": "Reddick",
+            "city_type": "city-4",
+            "oyster_lat": "29.367",
+            "oyster_lng": "-82.197"
+        },
+        {
+            "oyster_id": "154150111",
+            "city_name": "Flagler Beach",
+            "city_type": "city-3",
+            "oyster_lat": "29.475",
+            "oyster_lng": "-81.127"
+        },
+        {
+            "oyster_id": "153831682",
+            "city_name": "Ormond Beach",
+            "city_type": "city-3",
+            "oyster_lat": "29.285",
+            "oyster_lng": "-81.056"
+        },
+        {
+            "oyster_id": "154140465",
+            "city_name": "Woodbine",
+            "city_type": "city-4",
+            "oyster_lat": "30.964",
+            "oyster_lng": "-81.723"
+        },
+        {
+            "oyster_id": "154078542",
+            "city_name": "Kingsland",
+            "city_type": "city-3",
+            "oyster_lat": "30.8",
+            "oyster_lng": "-81.69"
+        },
+        {
+            "oyster_id": "154192386",
+            "city_name": "Folkston",
+            "city_type": "city-4",
+            "oyster_lat": "30.831",
+            "oyster_lng": "-82.01"
+        },
+        {
+            "oyster_id": "153923078",
+            "city_name": "Brunswick",
+            "city_type": "city-2",
+            "oyster_lat": "31.15",
+            "oyster_lng": "-81.491"
+        }
+    ]
+}

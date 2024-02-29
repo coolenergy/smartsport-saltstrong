@@ -1,0 +1,208 @@
+{
+    "status": "success",
+    "result": [
+        {
+            "boat_ramp_id": "60969658",
+            "city_name": "Erie",
+            "city_type": "city-2",
+            "boat_ramp_lat": "42.129",
+            "boat_ramp_lng": "-80.085"
+        },
+        {
+            "boat_ramp_id": "18994998",
+            "city_name": "Detroit",
+            "city_type": "city-2",
+            "boat_ramp_lat": "42.349",
+            "boat_ramp_lng": "-83.057"
+        },
+        {
+            "boat_ramp_id": "18948478",
+            "city_name": "Cleveland",
+            "city_type": "city-2",
+            "boat_ramp_lat": "41.505",
+            "boat_ramp_lng": "-81.693"
+        },
+        {
+            "boat_ramp_id": "61097209",
+            "city_name": "Orillia",
+            "city_type": "city-2",
+            "boat_ramp_lat": "30.332",
+            "boat_ramp_lng": "-81.656"
+        },
+        {
+            "boat_ramp_id": "61097209",
+            "city_name": "Orillia",
+            "city_type": "city-2",
+            "boat_ramp_lat": "44.604",
+            "boat_ramp_lng": "-79.426"
+        },
+        {
+            "boat_ramp_id": "18063533",
+            "city_name": "Toronto",
+            "city_type": "city-1",
+            "boat_ramp_lat": "43.654",
+            "boat_ramp_lng": "-79.387"
+        },
+        {
+            "boat_ramp_id": "485248691",
+            "city_name": "London",
+            "city_type": "city-2",
+            "boat_ramp_lat": "42.989",
+            "boat_ramp_lng": "-81.247"
+        },
+        {
+            "boat_ramp_id": "158657963",
+            "city_name": "Binghamton",
+            "city_type": "city-4",
+            "boat_ramp_lat": "42.097",
+            "boat_ramp_lng": "-75.914"
+        },
+        {
+            "boat_ramp_id": "3128734246",
+            "city_name": "Kingston",
+            "city_type": "city-4",
+            "boat_ramp_lat": "44.231",
+            "boat_ramp_lng": "-76.481"
+        },
+        {
+            "boat_ramp_id": "158855993",
+            "city_name": "Burlington",
+            "city_type": "city-2",
+            "boat_ramp_lat": "44.472",
+            "boat_ramp_lng": "-73.211"
+        },
+        {
+            "boat_ramp_id": "1517267225",
+            "city_name": "Rochester",
+            "city_type": "city-2",
+            "boat_ramp_lat": "43.157",
+            "boat_ramp_lng": "-77.615"
+        },
+        {
+            "boat_ramp_id": "158288312",
+            "city_name": "Utica",
+            "city_type": "city-2",
+            "boat_ramp_lat": "43.101",
+            "boat_ramp_lng": "-75.233"
+        },
+        {
+            "boat_ramp_id": "316976705",
+            "city_name": "Albany",
+            "city_type": "city-2",
+            "boat_ramp_lat": "42.651",
+            "boat_ramp_lng": "-73.755"
+        },
+        {
+            "boat_ramp_id": "153388690",
+            "city_name": "Chicago",
+            "city_type": "city-2",
+            "boat_ramp_lat": "41.876",
+            "boat_ramp_lng": "-87.624"
+        },
+        {
+            "boat_ramp_id": "153744573",
+            "city_name": "Fort Wayne",
+            "city_type": "city-2",
+            "boat_ramp_lat": "41.08",
+            "boat_ramp_lng": "-85.139"
+        },
+        {
+            "boat_ramp_id": "19794768",
+            "city_name": "Green Bay",
+            "city_type": "city-2",
+            "boat_ramp_lat": "44.513",
+            "boat_ramp_lng": "-88.013"
+        },
+        {
+            "boat_ramp_id": "153808230",
+            "city_name": "Traverse City",
+            "city_type": "city-2",
+            "boat_ramp_lat": "44.761",
+            "boat_ramp_lng": "-85.617"
+        },
+        {
+            "boat_ramp_id": "153348187",
+            "city_name": "Grand Rapids",
+            "city_type": "city-2",
+            "boat_ramp_lat": "42.963",
+            "boat_ramp_lng": "-85.668"
+        },
+        {
+            "boat_ramp_id": "873099231",
+            "city_name": "Milwaukee",
+            "city_type": "city-2",
+            "boat_ramp_lat": "43.035",
+            "boat_ramp_lng": "-87.922"
+        },
+        {
+            "boat_ramp_id": "158809705",
+            "city_name": "Boston",
+            "city_type": "city-2",
+            "boat_ramp_lat": "42.36",
+            "boat_ramp_lng": "-71.058"
+        },
+        {
+            "boat_ramp_id": "60647966",
+            "city_name": "Hartford",
+            "city_type": "city-2",
+            "boat_ramp_lat": "41.765",
+            "boat_ramp_lng": "-72.691"
+        },
+        {
+            "boat_ramp_id": "158867610",
+            "city_name": "Portland",
+            "city_type": "city-2",
+            "boat_ramp_lat": "43.661",
+            "boat_ramp_lng": "-70.255"
+        },
+        {
+            "boat_ramp_id": "299790200",
+            "city_name": "Montréal",
+            "city_type": "city-2",
+            "boat_ramp_lat": "45.497",
+            "boat_ramp_lng": "-73.61"
+        },
+        {
+            "boat_ramp_id": "18886011",
+            "city_name": "Ottawa",
+            "city_type": "city-1",
+            "boat_ramp_lat": "45.421",
+            "boat_ramp_lng": "-75.69"
+        },
+        {
+            "boat_ramp_id": "451944048",
+            "city_name": "Ferme-Neuve",
+            "city_type": "city-4",
+            "boat_ramp_lat": "46.701",
+            "boat_ramp_lng": "-75.45"
+        },
+        {
+            "boat_ramp_id": "1622527632",
+            "city_name": "Mattawa",
+            "city_type": "city-3",
+            "boat_ramp_lat": "46.317",
+            "boat_ramp_lng": "-78.703"
+        },
+        {
+            "boat_ramp_id": "722435702",
+            "city_name": "Parent",
+            "city_type": "city-4",
+            "boat_ramp_lat": "47.92",
+            "boat_ramp_lng": "-74.619"
+        },
+        {
+            "boat_ramp_id": "410366177",
+            "city_name": "Yarmouth",
+            "city_type": "city-3",
+            "boat_ramp_lat": "43.837",
+            "boat_ramp_lng": "-66.116"
+        },
+        {
+            "boat_ramp_id": "24922221",
+            "city_name": "Halifax",
+            "city_type": "city-2",
+            "boat_ramp_lat": "44.649",
+            "boat_ramp_lng": "-63.586"
+        }
+    ]
+}

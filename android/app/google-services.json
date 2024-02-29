@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "849491950298",
+    "project_id": "smart-fishing-spots-ac1ca",
+    "storage_bucket": "smart-fishing-spots-ac1ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849491950298:android:8488d587ac4a6f859a83e3",
+        "android_client_info": {
+          "package_name": "com.smart_fishing_spots.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849491950298-0ocr7mpis75ovu6fhic34uepfngj4i86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARYhOViRdrC_xLHsSPl2wZJGZr4vc97Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849491950298-0ocr7mpis75ovu6fhic34uepfngj4i86.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849491950298-gb0fo9tl9s42eur91vqa27fra5er0tb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saltstrong.smartspots"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
